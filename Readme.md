@@ -6,3 +6,4 @@
  - Your mentor will review your code and give suggestions if required.
  - This Interestship program is divided into three phases, all the mentors and students should work accordingly.
 
+![alt text](http://project_phase.PNG)
